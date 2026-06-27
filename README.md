@@ -4,7 +4,7 @@
 
 
 # Sales Dashboard — Excel 2025
-<img width="638" height="495" alt="צילום מסך 2026-06-27 133138" src="https://github.com/user-attachments/assets/92e1f387-8599-498e-9217-e880144cfed8" />
+<img width="569" height="280" alt="image" src="https://github.com/user-attachments/assets/9cc2ddcd-8475-4f77-94f7-6f3f61a99f14" />
 
 <img width="638" height="495" alt="image" src="https://github.com/user-attachments/assets/39ffa0c3-fa96-4033-81ce-2295feef1888" />
 
