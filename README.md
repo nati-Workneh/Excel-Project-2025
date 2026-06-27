@@ -1,4 +1,12 @@
+
+
+
+
+
 # Sales Dashboard — Excel 2025
+<img width="638" height="495" alt="צילום מסך 2026-06-27 133138" src="https://github.com/user-attachments/assets/92e1f387-8599-498e-9217-e880144cfed8" />
+
+<img width="638" height="495" alt="image" src="https://github.com/user-attachments/assets/39ffa0c3-fa96-4033-81ce-2295feef1888" />
 
 An interactive Excel sales dashboard built to analyze and visualize sales performance data across multiple dimensions.
 
